@@ -1,0 +1,3 @@
+	company_name	job_title	min_experience	avg_salary	min_salary	max_salary	num_of_salaries
+TCS	Data Scientist	2	7.8L	4.5L	16.0L	841
+Accenture	Data Scientist	2	12.8L	5.8L	23.0L	501
